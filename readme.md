@@ -23,6 +23,7 @@ Ideal para rotinas operacionais, automações e integrações com outros scripts
 ## 📁 Estrutura do projeto
 
 download_zabbix_incidentes/
+
 │
 
 ├── main.py # Script principal
