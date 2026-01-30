@@ -25,6 +25,7 @@ ENV/
 # =========================
 logs/
 *.log
+log/
 
 # =========================
 # Relatórios / Downloads
@@ -32,6 +33,7 @@ logs/
 relatorios/
 downloads/
 *.csv
+zbx_problems_export.csv
 
 # =========================
 # Sistema operacional
