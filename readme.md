@@ -24,13 +24,21 @@ Ideal para rotinas operacionais, automações e integrações com outros scripts
 
 download_zabbix_incidentes/
 │
+
 ├── main.py # Script principal
+
 ├── .env # Variáveis de ambiente (não versionado)
+
 ├── .env.example # Exemplo de variáveis
+
 ├── .gitignore
+
 ├── README.md
+
 ├── relatorios/ # CSVs baixados (ignorado no Git)
+
 ├── logs/ # Logs da aplicação (ignorado no Git)
+
 └── venv/ # Ambiente virtual
 
 
